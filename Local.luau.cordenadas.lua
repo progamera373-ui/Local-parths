@@ -778,3 +778,4 @@ local paths = {
         Vector3.new(7988.18, 712.30, 5140.54),
     }
 }
+return paths
